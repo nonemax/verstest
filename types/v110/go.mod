@@ -1,4 +1,4 @@
-module github.com/Percona-Lab/percona-dbaas-cli/dbaas-lib/engines/k8s-psmdb/types/v110
+module github.com/nonemax/verstest/types/v110
 
 go 1.13
 
